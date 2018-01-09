@@ -1,0 +1,10 @@
+C:\Users\38141419897\backend\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.deps.json
+C:\Users\38141419897\backend\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.runtimeconfig.json
+C:\Users\38141419897\backend\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.runtimeconfig.dev.json
+C:\Users\38141419897\backend\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.dll
+C:\Users\38141419897\backend\PrimeiraAplicacao\bin\Debug\netcoreapp2.0\PrimeiraAplicacao.pdb
+C:\Users\38141419897\backend\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\38141419897\backend\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.AssemblyInfoInputs.cache
+C:\Users\38141419897\backend\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.AssemblyInfo.cs
+C:\Users\38141419897\backend\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.dll
+C:\Users\38141419897\backend\PrimeiraAplicacao\obj\Debug\netcoreapp2.0\PrimeiraAplicacao.pdb
